@@ -80,7 +80,7 @@ export default function About() {
               </h2>
               <p className="text-gray-600 mb-4 md:mb-6 text-base md:text-lg leading-relaxed">
                 我们是一家致力于提供创新科技解决方案的高新技术企业，专注于人工智能、物联网、云计算等领域的技术研发和应用。
-                自成立以来，我们始终坚持"创新驱动发展"的理念，不断突破技术边界，为客户创造价值。
+                自成立以来，我们始终坚持&quot;创新驱动发展&quot;的理念，不断突破技术边界，为客户创造价值。
               </p>
               <p className="text-gray-600 text-base md:text-lg leading-relaxed">
                 公司拥有一支高素质的研发团队，多年以来积累了丰富的行业经验和技术积淀。
